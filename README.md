@@ -1,2 +1,2 @@
-# credit-card-management
+# Credit Card Management & Monitoring 
 Java Project
